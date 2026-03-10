@@ -1,0 +1,14 @@
+# Ignore compiled C++ files
+*.o
+*.out
+*.exe
+*.obj
+hello   # your compiled binary if named hello
+/build/
+/bin/
+
+# VSCode files
+.vscode/
+
+# macOS junk
+.DS_Store
